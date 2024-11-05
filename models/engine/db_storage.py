@@ -76,4 +76,3 @@ class DBStorage:
         call remove to private attributes
         """
         self.__session.remove()
-        
